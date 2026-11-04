@@ -14,7 +14,7 @@ backend/dist/
 .env.production
 *.env
 !.env.example
-!frontend/.env.production
+frontend/.env.production
 
 # Uploads (runtime user data — do not deploy/commit)
 backend/uploads/
